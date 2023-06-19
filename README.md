@@ -7,7 +7,9 @@ PunktundGegenpunkt é uma aplicação desenvolvida em Python com o uso da biblio
 ## Como Funciona
 
 A aplicação extrai o texto de cada obra literária a partir de arquivos de texto e, em seguida, exibe todos os sinais de pontuação utilizados na obra em um campo de texto. As obras literárias são selecionadas a partir de uma lista suspensa.
-Autores e Obras Suportados
+
+
+## Autores e Obras Suportados
 
 Atualmente, o programa compara as seguintes obras literárias:
 
